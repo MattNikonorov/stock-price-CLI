@@ -6,7 +6,7 @@ Are you someone who can't help checking the latest stock prices every 5 minutes?
 3. Displays the scraped price.
 
 ***************
-##Let's get started
+## Let's get started
 
 First things first, create a new python file. For this tutorial, I'll name mine `main.py`. Once you have your new python file, import `sys`, `BeautifulSoup` and `requests`:
 **main.py**
