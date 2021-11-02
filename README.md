@@ -1,4 +1,4 @@
-# stock-price-CLI
+# Stock price CLI
 
 Are you someone who can't help checking the latest stock prices every 5 minutes? Thanks to Python, getting the latest stock prices can be as easy as running `python3 main.py AMZN` in your terminal. In this tutorial, you will learn how to make a CLI with Python that:
 1. Reads the ticker whose price you would like to get.
